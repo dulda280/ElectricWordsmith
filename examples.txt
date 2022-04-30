@@ -2,553 +2,1126 @@
 ----- Generating text after Epoch: 0
 ----- Diversity: 0.3
 ----- Generating with seed:
-"up dude 
- so im"
-up dude 
- so im
+"
+ although i know your"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
+ although i know your name 
+ yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah 
+ yeah yeah yeah 
+ 
+ yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah 
+ yeah yeah yeah yeah yeah
 ----- Diversity: 0.4
 ----- Generating with seed:
-"up dude 
- so im"
-up dude 
- so im
+"
+ although i know your"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
+ although i know your name 
+ 
+ and i was a lot of my name 
+ i know that i know that 
+ i know that i know you know that you know that you know that i dont know 
+ i want to know that i can be 
+ 
+ i am the
 ----- Diversity: 0.5
 ----- Generating with seed:
-"up dude 
- so im"
-up dude 
- so im
+"
+ although i know your"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
+ although i know your name 
+ so you are the superman 
+ 
+ you know you know the truth 
+ and i dont wanna be no more 
+ 
+ im good at the face 
+ i got one day i feel like a little song 
+ and the fuck you frontin? 
+ 
+ we
 ----- Diversity: 0.6
 ----- Generating with seed:
-"up dude 
- so im"
-up dude 
- so im
+"
+ although i know your"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
+ although i know your name 
+ i know you know that i know you know that i know you know that they know that i can even know 
+ i know that im on my own 
+ 
+ i said it was a little nigga and its a bottle 
+ you dont know when
 ----- Diversity: 0.7
 ----- Generating with seed:
-"up dude 
- so im"
-up dude 
- so im
+"
+ although i know your"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ although i know your name 
+ i know my name on the name 
+ but my name love my name 
+ my name my name is gucci 
+ 
+ dont as fuck so much 
+ to be a fucking nigga ride 
+ the kid just rock goin on 
+ and rock from my feet
 ================================================================================
 
 ----- Generating text after Epoch: 1
 ----- Diversity: 0.3
 ----- Generating with seed:
-"bitch get your motherfuckin hands"
-bitch get your motherfuckin hands
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
+"if i was doing this"
+if i was doing this before this 
+ i can tell you what you wanna be 
+ 
+ i know that i know that i wont 
+ i wont be your superman 
+ cant be your superman 
+ cant be your superman 
+ cant be your superman 
+ cant be your superman 
+ cant be
 ----- Diversity: 0.4
 ----- Generating with seed:
-"bitch get your motherfuckin hands"
-bitch get your motherfuckin hands
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
+"if i was doing this"
+if i was doing this shit in a room 
+ i got a couple of a gun 
+ i dont wanna fold clothes for you 
+ i wanna fold clothes for you 
+ i dont care about you 
+ 
+ i got the shit on my back 
+ i said it was in the same
 ----- Diversity: 0.5
 ----- Generating with seed:
-"bitch get your motherfuckin hands"
-bitch get your motherfuckin hands
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
+"if i was doing this"
+if i was doing this life 
+ i wish you knew that you knew 
+ 
+ i was born at the bottom now im here 
+ started from the bottom now were here 
+ started from the bottom now were here for revenge 
+ 
+ i dont know what you got 
+ money on the
 ----- Diversity: 0.6
 ----- Generating with seed:
-"bitch get your motherfuckin hands"
-bitch get your motherfuckin hands
+"if i was doing this"
+if i was doing this crazy life 
+ smash when im dreaming 
+ now im not sayin that girl 
+ girl that should be just like that 
+ i need my hand and i cant even have no rhythm 
+ you just call me some more 
+ i said it must be the better 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================================
 ----- Diversity: 0.7
 ----- Generating with seed:
-"bitch get your motherfuckin hands"
-bitch get your motherfuckin hands
+"if i was doing this"
+if i was doing this crazy 
+ it’s thinkin of my opinion 
+ 
+ i again like the one that should be all in it 
+ cause i call this shit of my name 
+ cause youre a perfect kind 
+ you call ten of the y-yeah gold 
+ and the real niggas be out
+================================================================================
 
+----- Generating text after Epoch: 2
+----- Diversity: 0.3
+----- Generating with seed:
+"took a little sip lil"
+took a little sip lil sip 
+ little sip 
+ took a little sip 
+ little rabbit got a fuckin problem 
+ and i love bad bitches thats my fuckin problem 
+ and i love bad bitches thats my fuckin problem 
+ and i fuckin with this 
+ yeah yeah 
+ somebody move something 
 
+----- Diversity: 0.4
+----- Generating with seed:
+"took a little sip lil"
+took a little sip lil sip 
+ took a little sip 
+ i just wanna go out 
+ and now im playing like i dont know 
+ and i just like to be my fucking 
+ i said "i wrote my way out" 
+ and that the new kids who got some cable 
+ i
+----- Diversity: 0.5
+----- Generating with seed:
+"took a little sip lil"
+took a little sip lil sip 
+ slow slow slow lemme see you whine slow slow slow slow lemme see you whine slow slow slow slow lemme see you whine 
+ slow slow slow lemme see 
+ i might have a lot of people 
+ but im not gonna be able to die 
+ and
+----- Diversity: 0.6
+----- Generating with seed:
+"took a little sip lil"
+took a little sip lil sip 
+ cause the fuck got a butt 
+ fuck it get into it yuh 
+ 
+ i know you know that i know that 
+ i know whats in love with you 
+ i love you and just another one 
+ and i dont know what i just dont
+----- Diversity: 0.7
+----- Generating with seed:
+"took a little sip lil"
+took a little sip lil sip 
+ like a black wang nigga 
+ just like a beautiful vision you know you got yourself on some bars of a pimp mind 
+ feel the black man who was not 
+ i thought about you? 
+ and i pull up on the block with a bad rapper
+================================================================================
 
+----- Generating text after Epoch: 3
+----- Diversity: 0.3
+----- Generating with seed:
+"nobody ever did it like"
+nobody ever did it like it was just like it was 
+ i heard that he got to make it 
+ 
+ i remember when i had to understand 
+ i got a lot of people that i aint even wanna be good at it 
+ she got a lot of drive 
+ i aint
+----- Diversity: 0.4
+----- Generating with seed:
+"nobody ever did it like"
+nobody ever did it like it was missin and you 
+ and i cant stop now 
+ i cant stop now i can stop 
+ cause i can stop now i can stop 
+ i know you know i know 
+ i know i know i know i know i know i know you know
+----- Diversity: 0.5
+----- Generating with seed:
+"nobody ever did it like"
+nobody ever did it like it was all 
+ that you was just thinking bout is what you call it 
+ if you could never get it 
+ cause i look like i did 
+ 
+ i just wanna spread the same 
+ 
+ all i do is grind play shows and chill with honeys
+----- Diversity: 0.6
+----- Generating with seed:
+"nobody ever did it like"
+nobody ever did it like it 
+ it was just like a single person 
+ and i was born at the bottom yeah yeah 
+ 
+ everything i wanna do is that? 
+ nigga we just made up how we just made up 
+ and now im somebody and im too attached to my ones
+----- Diversity: 0.7
+----- Generating with seed:
+"nobody ever did it like"
+nobody ever did it like the words aint gon settle 
+ i just wanna drown on 
+ and my next friends my biggie 
+ people what i think im special 
+ i think im crazy yeah 
+ i got the world to the day 
+ i was getting by where i keep my heart 
 
+================================================================================
 
+----- Generating text after Epoch: 4
+----- Diversity: 0.3
+----- Generating with seed:
+"and then you die 
+"
+and then you die 
+ you should hide away? 
+ it’s so many of me 
+ cant even know that we are the illest that we are made a mill 
+ now im in a zone 
+ 
+ yeah ive been killin this killin this killin this killin this killin this killin this killin this
+----- Diversity: 0.4
+----- Generating with seed:
+"and then you die 
+"
+and then you die 
+ you should let me go 
+ and i need to take it all 
+ i take another breath then im blessed 
+ i be getting much higher been smoking that fire 
+ riding round the city with my homies that know me 
+ know that i know that i wont
+----- Diversity: 0.5
+----- Generating with seed:
+"and then you die 
+"
+and then you die 
+ you should hide away? 
+ they see us 
+ 
+ they been on the way 
+ i guess i was a saint whos gonna win 
+ but i just went to the sky 
+ it was me house? 
+ i was around this type of shit 
+ you say you
+----- Diversity: 0.6
+----- Generating with seed:
+"and then you die 
+"
+and then you die 
+ and well you should let you be 
+ this is all a bitch in my face 
+ but every time i go to sleep and i wont 
+ i wish i wont have to tell them shits 
+ they want it now they 
+ and they want me to do
+----- Diversity: 0.7
+----- Generating with seed:
+"and then you die 
+"
+and then you die 
+ 
+ theres no games say i love it 
+ i know i know that 
+ i love it i love it 
+ i keep it by the label 
+ i thank god that i could see 
+ a lot of niggas think they had us 
+ they never knew that
+================================================================================
 
+----- Generating text after Epoch: 5
+----- Diversity: 0.3
+----- Generating with seed:
+"all over 
+ to my"
+all over 
+ to my mind thats why im not the king 
+ i know that im not even sure my nigga 
+ nigga im just started with the head and i aint even tryna make it 
+ and if i didnt blow up the window 
+ i guess thats just the motion 
+ i
+----- Diversity: 0.4
+----- Generating with seed:
+"all over 
+ to my"
+all over 
+ to my cream thats broad on the rag 
+ and i just need to let it go 
+ i think i need to stop now 
+ 
+ i said it must be the drugs 
+ i heard you got some time to say 
+ 
+ yeah i remember the time i was
+----- Diversity: 0.5
+----- Generating with seed:
+"all over 
+ to my"
+all over 
+ to my mind like a rhyme 
+ i like to get my own mind 
+ then i feel like a one of mine 
+ it was long time ago 
+ oh oh oh oh oh 
+ oh i got the idea that im making 
+ i could go harder than sleep and
+----- Diversity: 0.6
+----- Generating with seed:
+"all over 
+ to my"
+all over 
+ to my head like i aint even mad yet my nigga gone then i smoke the nigga who used to do 
+ and when they say they wanted 
+ they dont wanna seem to be rich 
+ but i rap in the way 
+ he said "i wanna fold clothes for you
+----- Diversity: 0.7
+----- Generating with seed:
+"all over 
+ to my"
+all over 
+ to my niggas then beat the music 
+ and the shit that ive been through it 
+ bitches living in the past 
+ you better bring the beef 
+ make the fuck about the money and the shits 
+ fuck a bunch of niggas one this 
+ liquor all day all day
+================================================================================
 
+----- Generating text after Epoch: 6
+----- Diversity: 0.3
+----- Generating with seed:
+"is..." "nas is..." 
+ "nas"
+is..." "nas is..." 
+ "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas
+----- Diversity: 0.4
+----- Generating with seed:
+"is..." "nas is..." 
+ "nas"
+is..." "nas is..." 
+ "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas
+----- Diversity: 0.5
+----- Generating with seed:
+"is..." "nas is..." 
+ "nas"
+is..." "nas is..." 
+ "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas
+----- Diversity: 0.6
+----- Generating with seed:
+"is..." "nas is..." 
+ "nas"
+is..." "nas is..." 
+ "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas
+----- Diversity: 0.7
+----- Generating with seed:
+"is..." "nas is..." 
+ "nas"
+is..." "nas is..." 
+ "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas is..." "nas
+================================================================================
 
+----- Generating text after Epoch: 7
+----- Diversity: 0.3
+----- Generating with seed:
+"be the way that ill"
+be the way that ill catch up 
+ could it be the way that ill catch up 
+ could it be the way that ill be 
+ if i can pay the bills im the shit i fell up 
+ i’ma be your bitch nigga 
+ you cant suck a dick suck dick like the
+----- Diversity: 0.4
+----- Generating with seed:
+"be the way that ill"
+be the way that ill catch up 
+ could it be the way that ill catch up 
+ could it be the way that ill catch up 
+ could it be the way that ill be 
+ yeah yeah yeah yeah yeah yeah yeah 
+ whoa whoa whoa whoa yeah yeah yeah yeah 
+ whoa
+----- Diversity: 0.5
+----- Generating with seed:
+"be the way that ill"
+be the way that ill catch up 
+ could it be the way that ill always be the greatest 
+ act like a goddamn mothafucka like me 
+ but i never thought that shit would be like an addict 
+ i guess we got a couple of your bitch in my house 
+ for my
+----- Diversity: 0.6
+----- Generating with seed:
+"be the way that ill"
+be the way that ill be 
+ yeah yeah yeah yeah yeah 
+ whoa whoa whoa whoa whoa whoa 
+ whoa whoa whoa whoa yeah yeah yeah yeah 
+ whoa whoa whoa whoa 
+ whoa whoa whoa whoa whoa yeah yeah yeah yeah 
+ whoa whoa whoa whoa yeah yeah yeah yeah 
+ whoa whoa
+----- Diversity: 0.7
+----- Generating with seed:
+"be the way that ill"
+be the way that ill be there for me 
+ cry for me cry for me 
+ cry for me cry for me you said youd die for me 
+ give to me give me a new girl 
+ all i do is rhyme all i do is get in your mind 
+ if you
+================================================================================
 
+----- Generating text after Epoch: 8
+----- Diversity: 0.3
+----- Generating with seed:
+"aint playin around 
+ theres"
+aint playin around 
+ theres niggas on my own self 
+ and i am the cowboy 
+ i know you cant get higher than that means 
+ detroit vs. everybody 
+ 
+ comin from the top of my house 
+ and i aint lookin back 
+ i know you hear it 
+ yeah i rap
+----- Diversity: 0.4
+----- Generating with seed:
+"aint playin around 
+ theres"
+aint playin around 
+ theres niggas on my own self 
+ and now i gotta hit em with this 
+ too much too busy runnin home 
+ im bout to sleep im out here trapping 
+ this this here is for me to love me 
+ i know you love me 
+ i know you
+----- Diversity: 0.5
+----- Generating with seed:
+"aint playin around 
+ theres"
+aint playin around 
+ theres no fuckin problem 
+ i love bad bitches thats my fuckin problem 
+ and yeah i like to fuck i got a fuckin problem 
+ i love bad bitches thats my fuckin problem 
+ and yeah i like to fuck i got a fuckin problem 
+ i love bad bitches
+----- Diversity: 0.6
+----- Generating with seed:
+"aint playin around 
+ theres"
+aint playin around 
+ theres niggas on my own arm 
+ and i hope to get lit to get lit get get lit get get lit get get lit get get lit 
+ we about about the money and 
+ the album had his whole life with a hundred year morning 
+ and it was
+----- Diversity: 0.7
+----- Generating with seed:
+"aint playin around 
+ theres"
+aint playin around 
+ theres no more rappers no more 
+ i get it i hope you can stop 
+ and stop these bitches trying to get it 
+ but you gotta not know yourself yeah 
+ 
+ hes cold cold like sight 
+ but man that youre the only one 
+ my sister got
+================================================================================
 
+----- Generating text after Epoch: 9
+----- Diversity: 0.3
+----- Generating with seed:
+"no one could hurt me"
+no one could hurt me 
+ and i dont need love looking like diamonds 
+ looking like diamonds 
+ i dont need you too busy dont need you 
+ and you know you need me 
+ cause i know you into it 
+ i hope you answer 
+ i hope you answer 
+ i hope
+----- Diversity: 0.4
+----- Generating with seed:
+"no one could hurt me"
+no one could hurt me 
+ and when i hit you mothafuckin 
+ and youll see a dollar while the hoes dont want to sing 
+ ill be my window 
+ second i see theres one of your lines like mine 
+ and im gon be over 
+ a mental kids who dont need 
 
+----- Diversity: 0.5
+----- Generating with seed:
+"no one could hurt me"
+no one could hurt me 
+ and i dont need love looking like diamonds 
+ looking at myself that burnt in 
+ and throw a platinum plaque on them 
+ niggas got them boots and they all gon need is life is so different now you can go on 
+ and a little while in
+----- Diversity: 0.6
+----- Generating with seed:
+"no one could hurt me"
+no one could hurt me 
+ and i dont need love looking like diamonds 
+ looking 
+ yeah hold away from the bay 
+ i am trouble somewhere i sell another life 
+ but im still dealing with the fucker until the roof until the roof 
+ but i dont mind that i dont care
+----- Diversity: 0.7
+----- Generating with seed:
+"no one could hurt me"
+no one could hurt me 
+ i was just checkin the mail 
+ get it? checkin the city and flip em 
+ 
+ you must be keepin up 
+ dope in the morning making my own way 
+ i turn these down to a nigga 
+ see im on my nuts 
+ uh damn fuck
+================================================================================
 
+----- Generating text after Epoch: 10
+----- Diversity: 0.3
+----- Generating with seed:
+"peace 
+ rep my block"
+peace 
+ rep my block quick to draw a wall with me 
+ and when im gone just carry on dont mourn 
+ rejoice every time you hear the sound of my voice 
+ just know that im a little wild i just want them attention 
+ this is the way this life is 
 
+----- Diversity: 0.4
+----- Generating with seed:
+"peace 
+ rep my block"
+peace 
+ rep my block quick to draw a glass 
+ nigga these motherfuckers like me 
+ you know me and you know 
+ 
+ i do the walk up and say you all i can see 
+ but what i do this 
+ fuck a bunch of niggas that shit aint perfect 
+ i
+----- Diversity: 0.5
+----- Generating with seed:
+"peace 
+ rep my block"
+peace 
+ rep my block quick to draw a wall with me 
+ and when you see me ima see you why are the pressure 
+ uh of all my niggas 
+ you know i know you want this here for the day i am 
+ so if you think im bout to strip yo
+----- Diversity: 0.6
+----- Generating with seed:
+"peace 
+ rep my block"
+peace 
+ rep my block quick to draw a glass 
+ that aint shit just a pop off a mothafucka like a black star dont like me 
+ and you know we gotta go get down again 
+ 
+ they walk around fuck me 
+ oh my god flow 
+ oh shit im feeling 
 
+----- Diversity: 0.7
+----- Generating with seed:
+"peace 
+ rep my block"
+peace 
+ rep my block quick to draw a glass 
+ get it while you mad my house 
+ come in the cadillac i came up from a job for all my brothers and times 
+ i fuck with that thats with that 
+ till i get a photo you really really think im a
+================================================================================
 
+----- Generating text after Epoch: 11
+----- Diversity: 0.3
+----- Generating with seed:
+"now im older i love"
+now im older i love you problems yall 
+ bought a one crib and a rich black 
+ i be in the top but i aint even do it 
+ i aint even got my own 
+ and i said that hip-hop was there 
+ when you told me everything that would be so cool
+----- Diversity: 0.4
+----- Generating with seed:
+"now im older i love"
+now im older i love you problems yall 
+ bought a dick with a bitch in a box then i went to days like i aint even had a clue what he was just like to prove 
+ this is the last world we just go together 
+ and now we on the couch 
 
+----- Diversity: 0.5
+----- Generating with seed:
+"now im older i love"
+now im older i love it cause its all in the dark its like you up when we go 
+ go go go 
+ go 
+ 
+ i can pick up your house 
+ and thats just just how it happened to say 
+ i can handle make a bottle go away yeah magic uh
+----- Diversity: 0.6
+----- Generating with seed:
+"now im older i love"
+now im older i love you. smart 
+ you a little girls don’t give a shit if you see? a light vest 
+ remember? drink nigga sip cris a nigga 
+ dont wanna be right 
+ tell me why i do what i wanted to be for that 
+ said said you dont know how
+----- Diversity: 0.7
+----- Generating with seed:
+"now im older i love"
+now im older i love you problems yall 
+ bought his crib hang like system 
+ you only hit the club then last night we can see you 
+ and the shit we right 
+ now they say right my name 
+ when i make it in the gut 
+ where the fuck you gon
+================================================================================
 
+----- Generating text after Epoch: 12
+----- Diversity: 0.3
+----- Generating with seed:
+"girl 
+ is it the"
+girl 
+ is it the strength of your feelings 
+ and then you know it 
+ 
+ i know my life is wrong 
+ i got some brothers telling that flow flow that pass nah 
+ the trigger live a life by it 
+ but i aint even tryna be the king 
+ or the
+----- Diversity: 0.4
+----- Generating with seed:
+"girl 
+ is it the"
+girl 
+ is it the strength of your feelings 
+ and you blame the pain i said it in the beginning 
+ nowhere to go to the high 
+ and i was in the house 
+ and if you like you 
+ you you—you 
+ you—you you you you you 
+ you you—you 
+ you—you
+----- Diversity: 0.5
+----- Generating with seed:
+"girl 
+ is it the"
+girl 
+ is it the strength of your life 
+ 
+ yeah its yours 
+ 
+ yeah yeah yeah 
+ somebody move something 
+ 
+ yeah yo yo 
+ 
+ let me get some time 
+ "i gotta find peace of mind" you make my heart desire pure just tell me" 
+ memories burn in
+----- Diversity: 0.6
+----- Generating with seed:
+"girl 
+ is it the"
+girl 
+ is it the strength of your feelings 
+ and then wont drop the sky 
+ please dont ignore me im gonna 
+ we on a road when we had was the kid that didnt understand 
+ but i put you on 
+ but i love you too 
+ i just wanna be free
+----- Diversity: 0.7
+----- Generating with seed:
+"girl 
+ is it the"
+girl 
+ is it the strength of your life 
+ 
+ tell me where y’all door to please sit together 
+ i know its like i do it for real i do it for real i do it right now you say it right now 
+ but in your heart and pray for your shit
+================================================================================
 
+----- Generating text after Epoch: 13
+----- Diversity: 0.3
+----- Generating with seed:
+"you try 
+ the other"
+you try 
+ the other half of you 
+ i want you to be alive 
+ you can never die 
+ ima call my niggas heard you aint got the fucking windows you know i hope you understand 
+ 
+ got me on they call my 
+ i hope you can take the chance like
+----- Diversity: 0.4
+----- Generating with seed:
+"you try 
+ the other"
+you try 
+ the other side of the girls i wont give a fuck 
+ i give a fuck i give you my numbers 
+ cant see me on the side of faggots and feet 
+ i got my breath until i got dirt lost 
+ that you aint no telling you gonna see that
+----- Diversity: 0.5
+----- Generating with seed:
+"you try 
+ the other"
+you try 
+ the other guys side of the days is that he should get low 
+ 
+ from the real you can rap 
+ but these niggas dont even talkin to you you i say i got a lot of problems with the perfect spit 
+ you got beef i hope you got yourself
+----- Diversity: 0.6
+----- Generating with seed:
+"you try 
+ the other"
+you try 
+ the other half of you 
+ i was like theres been in the same place you are in the beginning 
+ all these hoes been is for one of our own 
+ and then we live until the day of demons i hate that i done cried so much that i cant
+----- Diversity: 0.7
+----- Generating with seed:
+"you try 
+ the other"
+you try 
+ the other half of you 
+ i was on my way on my way on my way on my way on my way on my way on my way on my way on my way on my way on my way on my way on my way on my way on my
+================================================================================
 
+----- Generating text after Epoch: 14
+----- Diversity: 0.3
+----- Generating with seed:
+"ready my set will start"
+ready my set will start 
+ and i like this music i know 
+ but i know the way she to feel 
+ and when you look at me 
+ look at my eyes so look 
+ i can see god bless it 
+ youre funny bout me oh 
+ the type of shit that
+----- Diversity: 0.4
+----- Generating with seed:
+"ready my set will start"
+ready my set will start 
+ on the real shit we do it like that 
+ i used to be the type of kid that would never murder 
+ i put a couple l thats a lot of time 
+ i was born by the bottom of a fan of this rap song 
+ all
+----- Diversity: 0.5
+----- Generating with seed:
+"ready my set will start"
+ready my set will start 
+ and i like my heart hurts and 
+ in the game of the world i know 
+ 
+ hey mothafucka i know i’m me 
+ i know you think im supposed to play with you 
+ you cant deal with that 
+ and i dont really need love the
+----- Diversity: 0.6
+----- Generating with seed:
+"ready my set will start"
+ready my set will start 
+ on the real that hip hop is everything we rock 
+ dont rock the bitch nothin about that 
+ im feeling like a mothafuckin ooh 
+ bitch i leave in the house closer 
+ so much me we can see 
+ and if she really raised me with lies
+----- Diversity: 0.7
+----- Generating with seed:
+"ready my set will start"
+ready my set will start like a lot of money you got a rap record for christmas 
+ new people get a shit for some fun ill be somethin to be 
+ stay fly or cool kitty 
+ im cool cool kitty im cool cool cool kitty 
+ cool kitty 
+ cool kitty im cool
+================================================================================
 
+----- Generating text after Epoch: 15
+----- Diversity: 0.3
+----- Generating with seed:
+"missed but as of now"
+missed but as of now im a behind of the jungle 
+ i hate liars but i love them 
+ im just talkin like a mothafuckin g 
+ lets get over shit 
+ cause its a different game open here 
+ cause when i say you got beef with a gun 
+ the pussy up
+----- Diversity: 0.4
+----- Generating with seed:
+"missed but as of now"
+missed but as of now im in the world and i still aint have no home on a dime 
+ keep on her mind cause i aint even gotta describe will we get the real like we fuck you in spite will be when i was 
+ when i was broke at least thats how
+----- Diversity: 0.5
+----- Generating with seed:
+"missed but as of now"
+missed but as of now i got two feet of my own 
+ 
+ i never knew that i had them days when i was up to be the last real 
+ i saw a buck shot 
+ i get into the clip and they bout to leave me tear my team down me 
 
+----- Diversity: 0.6
+----- Generating with seed:
+"missed but as of now"
+missed but as of now im about to go 
+ fuck me i know what im so serious i think i brought 
+ four for your wife "whats to see a lot of things 
+ aint that smart pussy he can be 
+ fuck it 
+ ‘cause you get closer from me one of the
+----- Diversity: 0.7
+----- Generating with seed:
+"missed but as of now"
+missed but as of now 
+ i got that new shit for me to hurt this year 
+ sometimes i just wanted to have to go in the store though set it off my own no never i’ll rose 
+ it’s no one that you shoulda said 
+ fuck with dead i got a little
+================================================================================
 
+----- Generating text after Epoch: 16
+----- Diversity: 0.3
+----- Generating with seed:
+"go forth and back in"
+go forth and back in constant 
+ and when i was at home 
+ im the king of my jungle 
+ i hate you! i hate you! 
+ see me piece the mind its supposed to believe in your whole life 
+ and dont have no time to be starin out 
+ im a liar
+----- Diversity: 0.4
+----- Generating with seed:
+"go forth and back in"
+go forth and back in constant 
+ and when i was at home 
+ im the king of my jungle 
+ i hate you! i hate you! 
+ im too high so ill never let it go 
+ you only get one shot do not miss your chance to blow 
+ this opportunity comes once
+----- Diversity: 0.5
+----- Generating with seed:
+"go forth and back in"
+go forth and back in constant 
+ and when i wanna talk to you 
+ i hope you answer 
+ 
+ suck my fucking dick bitch suck my dick 
+ suck my hand to the day i am 
+ i wont forget you 
+ i-i-i promise 
+ we cant what it seems like 
+ but
+----- Diversity: 0.6
+----- Generating with seed:
+"go forth and back in"
+go forth and back in constant 
+ and when i was 18 and no jesus 
+ purple cock boy im living crazy 
+ i know that there’s a lady its like all the think of me 
+ well thats a lie 
+ i like my little i like i want that i can ask ya
+----- Diversity: 0.7
+----- Generating with seed:
+"go forth and back in"
+go forth and back in my back again 
+ but i dont see my tears fall just to pick you like you said id never go to hell 
+ i hope you offended 
+ you can try to pick me up then thats just me up 
+ with all this live in my life life
+================================================================================
 
+----- Generating text after Epoch: 17
+----- Diversity: 0.3
+----- Generating with seed:
+"me 
+ they tell me"
+me 
+ they tell me you miss me 
+ and i know is the only way to show me 
+ 
+ i heard he was hidin somewhere i can’t see 
+ where is he the man who was just like me? 
+ i heard he was hidin somewhere i can’t see 
+ where is he
+----- Diversity: 0.4
+----- Generating with seed:
+"me 
+ they tell me"
+me 
+ they tell me you miss me 
+ you cant get this money 
+ oh no bitch on my mind no i like im with it i should be happy 
+ you know everything that i say 
+ but i just can’t get enough 
+ i’m just not your money 
+ and i just
+----- Diversity: 0.5
+----- Generating with seed:
+"me 
+ they tell me"
+me 
+ they tell me im going to know 
+ the sun set it up 
+ fast fake 
+ and i think like i’m looking like a mothafuckin g 
+ young nigga with me thinking 
+ i aint fuckin with you i can be more than i swear 
+ i know what i been on
+----- Diversity: 0.6
+----- Generating with seed:
+"me 
+ they tell me"
+me 
+ they tell me you miss me 
+ you son you’re born up in the city looking for you 
+ next time i wonder is the world like me never loved me 
+ the way that isnt money is that 
+ i’ll fuck that jump with the gang 
+ know you want me baby
+----- Diversity: 0.7
+----- Generating with seed:
+"me 
+ they tell me"
+me 
+ they tell me i dont care 
+ if you hurt but i fucked it girl just if i get it 
+ i aint fucking with your single take 
+ if i let it go get it 
+ 
+ i get closer with your new car 
+ i feel like i don’t know whats
+================================================================================
 
+----- Generating text after Epoch: 18
+----- Diversity: 0.3
+----- Generating with seed:
+"
+ waste a bunch of"
 
+ waste a bunch of money kinda pain 
+ and im goin back to cali 
+ yeah yeah yeah 
+ 
+ yeah yeah 
+ 
+ 
+ i know i got it all 
+ thats the way you feel 
+ 
+ ay hey mothafucka i’m real as shit 
+ everything i’m talkin bout real as shit
+----- Diversity: 0.4
+----- Generating with seed:
+"
+ waste a bunch of"
 
+ waste a bunch of money kinda pain 
+ that no one day everybody we just gon take our cards and they dont play no more sing for him after the same mad 
+ 
+ the pain my niggas would catch me in my feelings 
+ you know that im a man 
+ i know
+----- Diversity: 0.5
+----- Generating with seed:
+"
+ waste a bunch of"
 
+ waste a bunch of girls i’m a bunch of shit from a long time ago to find me feelin like this 
+ finna murder it just to run on the dead 
+ i know you think im here to die? 
+ cause im too crazy theres more than the bitch most of those times
+----- Diversity: 0.6
+----- Generating with seed:
+"
+ waste a bunch of"
 
+ waste a bunch of time i left 
+ now wait a big bad mood 
+ gotta put his hands in the face 
+ im the one that nigga 
+ you probably wonder where i really want 
+ but i was taught and fuck it 
+ ‘cause i dont know how to god that they
+----- Diversity: 0.7
+----- Generating with seed:
+"
+ waste a bunch of"
 
+ waste a bunch of god always stay to the lord 
+ and tell the girl that they dont know 
+ if they think i speak that i dont know then i dont know why 
+ i love you and i love falling victim 
+ hate me for my mom to an open and line
+================================================================================
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----- Generating text after Epoch: 19
+----- Diversity: 0.3
+----- Generating with seed:
+"spoke so foul 
+ only"
+spoke so foul 
+ only twelve tryin to survive and get famous 
+ 
+ i seen your number one 
+ i got a lot of music and a nigga need getting tired shit 
+ you dont know how to get it back 
+ i had to start it off and im lit 
+ i could
+----- Diversity: 0.4
+----- Generating with seed:
+"spoke so foul 
+ only"
+spoke so foul 
+ only twelve tryin to tell me that he liked my style 
+ then i rose trill into a gang! door 
+ she not too many but she aint had a clue 
+ going back so all that 
+ let me go let it go let it go let it go let
+----- Diversity: 0.5
+----- Generating with seed:
+"spoke so foul 
+ only"
+spoke so foul 
+ only twelve tryin to survive and get back 
+ 
+ i know sometimes that i be on and just wanna not 
+ aint this man now he had him he said "i have to talk to you 
+ you couldnt get you from the sight at you 
+ 
+ you cant
+----- Diversity: 0.6
+----- Generating with seed:
+"spoke so foul 
+ only"
+spoke so foul 
+ only twelve tryin to survive and get off at my momma then they wont know me 
+ cause i know the world is yours its yours! 
+ aight 
+ fake thug no people get blow even to know about me 
+ the world dont know what im back on 
+ the
+----- Diversity: 0.7
+----- Generating with seed:
+"spoke so foul 
+ only"
+spoke so foul 
+ only twelve tryin to survive and get they say they aint quite like they did we on this trip 
+ either one day everybody gotta rap about me 
+ this is the moment and its time to let whos whos looking at the block like a nigga wrote a perfect way
 ================================================================================
